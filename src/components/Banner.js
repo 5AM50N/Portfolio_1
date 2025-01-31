@@ -1,7 +1,7 @@
 import React from "react";
 import resume from './Resume.pdf';
 
-
+//testing pass ke required or not
 function Banner() {
     return(
         <section className="banner" id="banner">
